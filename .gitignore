@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Audio Clips
+clips/
+
+# VS Code
+.vscode/
+
+# SQLite database
+echo_well.db 
+
+#macOS
+.DS_Store
+#a hidden file created by macOS Finder that stores information about a folder's appearance,
+#including its display settings, icon positions, and other custom attributes
