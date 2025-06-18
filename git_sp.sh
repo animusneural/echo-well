@@ -10,3 +10,6 @@ fi
 git add .
 git commit -m "$MSG"
 git push -u origin main
+
+#./git_sp.sh RUN THIS FOR GIT COMMIT AND PUSH
+# This script stages all changes, commits them with a message, and pushes to the main branch
